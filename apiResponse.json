@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "solana",
+      "dexId": "raydium",
+      "url": "https://dexscreener.com/solana/nfjtyhvp4sr2qifkxpjyq7c5bq96zhhrhmfhbjnmxfs",
+      "pairAddress": "nfjtyHvP4sR2QiFkxPJYQ7C5BQ96ZHhRhmfhbjNMXfs",
+      "baseToken": {
+        "address": "Eksb48Gcr8RY195L46w9mZSgrQSUfwJoCZjiEHxspump",
+        "name": "RIP TRUMP",
+        "symbol": "RIPTRUMP"
+      },
+      "quoteToken": {
+        "address": "So11111111111111111111111111111111111111112",
+        "name": "Wrapped SOL",
+        "symbol": "SOL"
+      },
+      "priceNative": "0.000001301",
+      "priceUsd": "0.0002430",
+      "txns": {
+        "m5": { "buys": 0, "sells": 0 },
+        "h1": { "buys": 0, "sells": 0 },
+        "h6": { "buys": 0, "sells": 1 },
+        "h24": { "buys": 6, "sells": 7 }
+      },
+      "volume": { "h24": 1762.39, "h6": 121.52, "h1": 0, "m5": 0 },
+      "priceChange": { "h6": -1.02, "h24": 2.47 },
+      "liquidity": { "usd": 60687.58, "base": 124944566, "quote": 162.3871 },
+      "fdv": 242845,
+      "marketCap": 242845,
+      "pairCreatedAt": 1720909737000,
+      "info": {
+        "imageUrl": "https://cdn.dexscreener.com/cms/images/aefa810ba5eb1ae5db7a24bc0eb14bf3f474f4f8f4681c2ec1d9cab193faab77?width=64&height=64&quality=90",
+        "header": "https://cdn.dexscreener.com/cms/images/a97c35c152be0a4eda4506ff18471a0ee93d18bc2e05fce932696f722d05cfac?width=128&height=128&quality=90",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Eksb48Gcr8RY195L46w9mZSgrQSUfwJoCZjiEHxspump?timestamp=1761980400000",
+        "websites": [],
+        "socials": [
+          {
+            "url": "https://x.com/search?q=trump%20is%20dead&src=typed_query&f=live",
+            "type": "twitter"
+          }
+        ]
+      }
+    }
+  ],
+  "pair": {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/nfjtyhvp4sr2qifkxpjyq7c5bq96zhhrhmfhbjnmxfs",
+    "pairAddress": "nfjtyHvP4sR2QiFkxPJYQ7C5BQ96ZHhRhmfhbjNMXfs",
+    "baseToken": {
+      "address": "Eksb48Gcr8RY195L46w9mZSgrQSUfwJoCZjiEHxspump",
+      "name": "RIP TRUMP",
+      "symbol": "RIPTRUMP"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000001301",
+    "priceUsd": "0.0002430",
+    "txns": {
+      "m5": { "buys": 0, "sells": 0 },
+      "h1": { "buys": 0, "sells": 0 },
+      "h6": { "buys": 0, "sells": 1 },
+      "h24": { "buys": 6, "sells": 7 }
+    },
+    "volume": { "h24": 1762.39, "h6": 121.52, "h1": 0, "m5": 0 },
+    "priceChange": { "h6": -1.02, "h24": 2.47 },
+    "liquidity": { "usd": 60687.58, "base": 124944566, "quote": 162.3871 },
+    "fdv": 242845,
+    "marketCap": 242845,
+    "pairCreatedAt": 1720909737000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/aefa810ba5eb1ae5db7a24bc0eb14bf3f474f4f8f4681c2ec1d9cab193faab77?width=64&height=64&quality=90",
+      "header": "https://cdn.dexscreener.com/cms/images/a97c35c152be0a4eda4506ff18471a0ee93d18bc2e05fce932696f722d05cfac?width=128&height=128&quality=90",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Eksb48Gcr8RY195L46w9mZSgrQSUfwJoCZjiEHxspump?timestamp=1761980400000",
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/search?q=trump%20is%20dead&src=typed_query&f=live",
+          "type": "twitter"
+        }
+      ]
+    }
+  }
+}

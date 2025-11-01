@@ -1,8 +1,8 @@
 {
   "name": "coinfloat",
-  "displayName": "Coinfloat",
+  "displayName": "CoinFloat",
   "version": "0.0.1",
-  "description": "a crypto tool",
+  "description": "追踪 Solana 代币行情的悬浮小组件",
   "author": "@eatphantom",
   "scripts": {
     "dev": "plasmo dev",
@@ -27,8 +27,13 @@
     "typescript": "5.3.3"
   },
   "manifest": {
+    "homepage_url": "https://x.com/eatphantom",
+    "permissions": [
+      "storage",
+      "alarms"
+    ],
     "host_permissions": [
-      "https://*/*"
+      "https://api.dexscreener.com/*"
     ]
   }
 }
